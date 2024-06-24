@@ -1,1 +1,1 @@
-# solved_leeet_code
+# sol_LC
